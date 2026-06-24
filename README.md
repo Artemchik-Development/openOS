@@ -1,3 +1,3 @@
 # openOS
 
-A very ambitious project for building an x86 operating system.
+A project for building an x86 operating system.
